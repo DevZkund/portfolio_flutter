@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259956841577",
+    "project_id": "portfolio-d270d",
+    "storage_bucket": "portfolio-d270d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259956841577:android:ef034e9d48651def0e56f8",
+        "android_client_info": {
+          "package_name": "com.example.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQGEzK6zYXykSKwpYjn7NGUHVPap2jl6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
